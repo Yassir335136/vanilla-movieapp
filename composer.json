@@ -1,0 +1,13 @@
+{
+    "name": "uav/movieapp",
+    "autoload": {
+        "psr-4": {
+            "Uav\\": "./"
+        }
+    },
+    "require": {
+      "ext-pdo": "*",
+        "guzzlehttp/guzzle": "^7.8",
+      "php": "^8.1"
+    }
+}
